@@ -6,7 +6,7 @@ Semester : 3/1 <br>
 # LAB 01 :
 ### WEEK 01 - ARRAYS : <br>
 1. [Addition of Matrix ](https://colab.research.google.com/drive/1Esxs8ZVU4F9yLtul6MU_8Xg1NJtGJ6Cf#scrollTo=SZxARovxbO69) <br> <br>
-2. [Subtraction of Matrix ]() <br> <br>
+2. [Subtraction of Matrix ](https://colab.research.google.com/drive/1HypzCw2nPcbCoT06no3XkTv5JAzrMCzP#scrollTo=h5RZqXEoJa9g) <br> <br>
 3. [Multiplication of Matrix]() <br> <br>
 
 ### WEEK 02 - SORTING TECHNIQUES : <br>
