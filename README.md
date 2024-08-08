@@ -18,6 +18,6 @@ Semester : 3/1 <br>
 1. [WEEK1_1_GN_DAA](https://colab.research.google.com/drive/1I6Ti3WfRSnYoi3do3SORNN1kqLEQTvlh#scrollTo=aG26UbriaMkq) <br> <br>
 2. [WEEK1_2_GN_DAA](https://colab.research.google.com/drive/1I6Ti3WfRSnYoi3do3SORNN1kqLEQTvlh#scrollTo=aG26UbriaMkq) <br> <br>
 3. [WEEK1_3_GN_DAA](https://colab.research.google.com/drive/1I6Ti3WfRSnYoi3do3SORNN1kqLEQTvlh#scrollTo=aG26UbriaMkq) <br> <br>
-4. [WEEK1_1_GN_DAA]()
-5. [WEEK1_2_GN_DAA]()
-6. [WEEK1_3_GN_DAA]()
+4. [WEEK1_1_GN_DAA]() <br> <br>
+5. [WEEK1_2_GN_DAA]() <br> <br>
+6. [WEEK1_3_GN_DAA]() <br> <br>
