@@ -15,9 +15,12 @@ Semester : 3/1 <br>
 3. [INSERTION SORT]() <br> <br>
 
 ### WEEK 03 - SCENARIO SORTING TECHNIQUES : <br>
-1. [WEEK1_1_GN_DAA]() <br> <br>
-2. [WEEK1_2_GN_DAA]() <br> <br>
-3. [WEEK1_3_GN_DAA]() <br> <br>
-4. [WEEK1_1_GN_DAA]() <br> <br>
-5. [WEEK1_2_GN_DAA]() <br> <br>
-6. [WEEK1_3_GN_DAA]() <br> <br>
+1. [WEEK1_1_GN_DAA]()Sorting Orders By Order Placement Time Using Insertion Sort <br> <br>
+2. [WEEK1_2_GN_DAA]() Sorting Product By Product ID Using Selection Sort<br> <br>
+3. [WEEK1_3_GN_DAA]()  Delivery Packages By Time Taken To Reach Destination Using Bubble Sort <br> <br>
+4. [WEEK1_1_GN_DAA]()Sorting Books By Price Using Bubble Sort <br> <br>
+5. [WEEK1_2_GN_DAA]( )Sorting Couriers By Tracking Number Using Insertion Sort<br> <br>
+6. [WEEK1_3_GN_DAA]() Sorting Products By Price Using Selection Sort<br> <br>
+
+
+
